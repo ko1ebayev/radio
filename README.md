@@ -9,10 +9,10 @@ This project aims to create an internet-radio, an endless audio stream to which 
 - Ubuntu remote VM
 
 ## MVP roadmap
-[] Suitable server setup
-[] Implement the icecast configuration
-[] Transfer huge amount of music on remote VM
-[] Run radio
-[] Run twitch / youtube / etc. infinite stream
-[] Connect input from home device to an audio stream on a remote VM for live broadcasting
-[] Implement live and pre-recorded programs schedule
+[] Suitable server setup  
+[] Implement the icecast configuration  
+[] Transfer huge amount of music on remote VM  
+[] Run radio  
+[] Run twitch / youtube / etc. infinite stream  
+[] Connect input from home device to an audio stream on a remote VM for live broadcasting  
+[] Implement live and pre-recorded programs schedule  
