@@ -3,9 +3,9 @@
 This project aims to create an internet-radio, an endless audio stream to which you can connect from anywhere in the world and listen in different ways, directly through the web interface or through streaming platforms. 
 
 ## Development stack
-- [Icecast|http://icecast.org/] as audio-stream manager 
-- [FFmpeg|https://ffmpeg.org/] to share stream between services
-- React SPA to interact with web version
+- [Icecast| http://icecast.org/] as audio-stream manager 
+- [FFmpeg| https://ffmpeg.org/] to share stream between services
+- Lit web-app to interact with web version
 - Ubuntu remote VM
 
 ## MVP roadmap
